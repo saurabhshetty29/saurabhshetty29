@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Saurabh Shetty</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
+I am actively seeking full-time software engineer roles. 
+
+- **Location**: Santa Clara, CA, US (Open to relocation)
+
+- **Availability**: Able to start immediately
+
 - 📫 How to reach me **saurabhshetty95@gmail.com**
 
 - 📄 Know about my experiences [https://tinyurl.com/resume-saurabh-shetty](https://tinyurl.com/resume-saurabh-shetty)
