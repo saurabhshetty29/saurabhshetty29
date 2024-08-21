@@ -9,9 +9,9 @@ I am actively seeking full-time software engineer roles.
 
 - **Experience**: 5 years
 
-- 📫 How to reach me **saurabhshetty95@gmail.com**
+- **Email**: **saurabhshetty95@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/resume-saurabh-shetty](https://tinyurl.com/resume-saurabh-shetty)
+- **RESUME**: [https://tinyurl.com/resume-saurabh-shetty](https://tinyurl.com/resume-saurabh-shetty)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
