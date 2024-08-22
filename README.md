@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saurabh Shetty</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-I am actively seeking full-time software engineer roles. 
+I am actively seeking full-time Software Engineer roles. 
 
 - **Location**: Santa Clara, CA, US (Open to relocation)
 
