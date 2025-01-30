@@ -3,7 +3,7 @@
 
 I am actively seeking full-time Software Engineer roles. 
 
-- **Location**: San Jose, CA, US (Open to relocation)
+- **Location**: San Jose, CA, US
 
 - **Availability**: Able to start immediately
 
