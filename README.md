@@ -7,7 +7,7 @@ I am actively seeking full-time Software Engineer roles.
 
 - **Availability**: Able to start immediately
 
-- **Experience**: 5 years
+- **Experience**: 6 years
 
 - **Email**: **saurabhshetty95@gmail.com**
 
