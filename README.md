@@ -11,7 +11,7 @@ I am actively seeking full-time Software Engineer roles.
 
 - **Email**: **saurabhshetty95@gmail.com**
 
-- **RESUME**: [https://tinyurl.com/resume-saurabhshetty1995](https://tinyurl.com/resume-saurabhshetty1995)
+- **RESUME**: [SAURABH-SHETTY-RESUME](https://tinyurl.com/resume-saurabhshetty1995)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
